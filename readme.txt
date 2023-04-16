@@ -1,4 +1,4 @@
 Welcome to MyProject!
 
-Author: Marzieh
+Author: Marzieh Motlaghi
 Twitter: @Mrzmtlg
